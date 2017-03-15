@@ -1,2 +1,1 @@
-# art-server
-Rate server trial
+Rate server
